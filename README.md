@@ -25,7 +25,7 @@ kmeans_clustering_project/
 │   └── evaluation_metrics.png # Biểu đồ các chỉ số đánh giá theo số cụm
 │
 └── README.md                # Tài liệu hướng dẫn dự án
-Cài đặt
+#Cài đặt
 Cài đặt các thư viện cần thiết bằng lệnh sau:
  pip install pandas scikit-learn matplotlib
 
